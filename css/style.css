@@ -573,6 +573,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #features .features-img img {
   max-width: 100%;
+  max-height: 70%;
 }
 
 #features .box {
